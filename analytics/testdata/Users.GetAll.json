@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "companyId": 1,
+      "loginId": 1,
+      "login": "015a59f6-08c5-4aeb-be27-79988fdd54da@techacct.adobe.com",
+      "changePassword": false,
+      "createDate": "2020-01-01T00:00:00Z",
+      "disabled": false,
+      "email": "015a59f6-08c5-4aeb-be27-79988fdd54da@techacct.adobe.com",
+      "firstName": "015a59f6-08c5-4aeb-be27-79988fdd54da",
+      "fullName": "015a59f6-08c5-4aeb-be27-79988fdd54da techacct.adobe.com",
+      "imsUserId": "5E1374E65EC43BE60A495C8D@techacct.adobe.com",
+      "lastName": "techacct.adobe.com"
+    },
+    {
+      "companyId": 1,
+      "loginId": 2,
+      "login": "16895dfa-b671-4eda-b660-2d1959ac97a4@techacct.adobe.com",
+      "changePassword": false,
+      "createDate": "2020-02-01T00:00:00Z",
+      "disabled": false,
+      "email": "16895dfa-b671-4eda-b660-2d1959ac97a4@techacct.adobe.com",
+      "firstName": "16895dfa-b671-4eda-b660-2d1959ac97a4",
+      "fullName": "16895dfa-b671-4eda-b660-2d1959ac97a4 techacct.adobe.com",
+      "imsUserId": "2D7A56E65EB41E470A495C33@techacct.adobe.com",
+      "lastName": "techacct.adobe.com"
+    }
+  ],
+  "number": 0,
+  "size": 10,
+  "numberOfElements": 2,
+  "totalElements": 2,
+  "previousPage": false,
+  "firstPage": true,
+  "nextPage": false,
+  "lastPage": true,
+  "totalPages": 1
+}
